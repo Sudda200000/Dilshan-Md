@@ -80,7 +80,7 @@
     "cloudscraper": "^4.6.0",
     "@dark-yasiya/scrap": "^1.0.1",
     "qrcode": "^1.5.4",
-    "btch-downloader": "^4.1.27-lts",
+    "btch-downloader": "^6.0.32",
     "node-cache": "^5.1.2"
       },
   "resolutions": {
